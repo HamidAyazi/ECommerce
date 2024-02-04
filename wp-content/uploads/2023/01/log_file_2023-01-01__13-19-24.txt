@@ -1,0 +1,362 @@
+
+---فایلهای بارگیری شده---
+فایلهای درون ریزی برای:دموی اصلی با موفقیت بارگیری شد!
+حداکثر زمان اجرای اولیه =120
+اطلاعات فایل ها :
+Site URL = http://localhost/wordpress
+فایل اطلاعات = C:\xampp\htdocs\wordpress/wp-content/themes/organic-shop hamyarwp/hwp_inc/import_files/content.xml
+فایل ابزارک = C:\xampp\htdocs\wordpress/wp-content/themes/organic-shop hamyarwp/hwp_inc/import_files/widget.wie
+فایل های سفارشی ساز= C:\xampp\htdocs\wordpress/wp-content/themes/organic-shop hamyarwp/hwp_inc/import_files/customizer.dat
+Redux فایل ها:
+تعریف نشده!
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import category دسته‌بندی نشده
+[WARNING] Failed to import product_cat بدون دسته‌بندی
+[ERROR] Failed to import "product11-free-img" (رسانه)
+[ERROR] Failed to import "leaf-free-img" (رسانه)
+[ERROR] Failed to import "product13-free-img" (رسانه)
+[ERROR] Failed to import "product17-free-img" (رسانه)
+[ERROR] Failed to import "product20-free-img" (رسانه)
+[ERROR] Failed to import "product19-free-img" (رسانه)
+[ERROR] Failed to import "product21-free-img" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import category دسته‌بندی نشده
+[WARNING] Failed to import product_cat بدون دسته‌بندی
+[ERROR] Failed to import "product11-free-img" (رسانه)
+[ERROR] Failed to import "leaf-free-img" (رسانه)
+[ERROR] Failed to import "product13-free-img" (رسانه)
+[ERROR] Failed to import "product17-free-img" (رسانه)
+[ERROR] Failed to import "product20-free-img" (رسانه)
+[ERROR] Failed to import "product19-free-img" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import category دسته‌بندی نشده
+[WARNING] Failed to import product_cat بدون دسته‌بندی
+[ERROR] Failed to import "product11-free-img" (رسانه)
+[ERROR] Failed to import "leaf-free-img" (رسانه)
+[ERROR] Failed to import "product13-free-img" (رسانه)
+[ERROR] Failed to import "product17-free-img" (رسانه)
+[ERROR] Failed to import "product20-free-img" (رسانه)
+[ERROR] Failed to import "product19-free-img" (رسانه)
+[ERROR] Failed to import "product21-free-img" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import category دسته‌بندی نشده
+[WARNING] Failed to import product_cat بدون دسته‌بندی
+[ERROR] Failed to import "product11-free-img" (رسانه)
+[ERROR] Failed to import "leaf-free-img" (رسانه)
+[ERROR] Failed to import "product13-free-img" (رسانه)
+[ERROR] Failed to import "product17-free-img" (رسانه)
+[ERROR] Failed to import "product20-free-img" (رسانه)
+[ERROR] Failed to import "product19-free-img" (رسانه)
+[ERROR] Failed to import "product21-free-img" (رسانه)
+[ERROR] Failed to import "product23-free-img" (رسانه)
+[ERROR] Failed to import "product24-free-img" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import category دسته‌بندی نشده
+[WARNING] Failed to import product_cat بدون دسته‌بندی
+[ERROR] Failed to import "product11-free-img" (رسانه)
+[ERROR] Failed to import "leaf-free-img" (رسانه)
+[ERROR] Failed to import "product13-free-img" (رسانه)
+[ERROR] Failed to import "product17-free-img" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import category دسته‌بندی نشده
+[WARNING] Failed to import product_cat بدون دسته‌بندی
+[ERROR] Failed to import "product11-free-img" (رسانه)
+[ERROR] Failed to import "leaf-free-img" (رسانه)
+[ERROR] Failed to import "product13-free-img" (رسانه)
+[ERROR] Failed to import "product17-free-img" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import category دسته‌بندی نشده
+[WARNING] Failed to import product_cat بدون دسته‌بندی
+[ERROR] Failed to import "product11-free-img" (رسانه)
+[ERROR] Failed to import "leaf-free-img" (رسانه)
+[ERROR] Failed to import "product13-free-img" (رسانه)
+[ERROR] Failed to import "product17-free-img" (رسانه)
+[ERROR] Failed to import "product20-free-img" (رسانه)
+[ERROR] Failed to import "product19-free-img" (رسانه)
+[ERROR] Failed to import "product21-free-img" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import category دسته‌بندی نشده
+[WARNING] Failed to import product_cat بدون دسته‌بندی
+[ERROR] Failed to import "product11-free-img" (رسانه)
+[ERROR] Failed to import "leaf-free-img" (رسانه)
+[ERROR] Failed to import "product13-free-img" (رسانه)
+[ERROR] Failed to import "product17-free-img" (رسانه)
+[ERROR] Failed to import "product20-free-img" (رسانه)
+[ERROR] Failed to import "product19-free-img" (رسانه)
+[ERROR] Failed to import "product21-free-img" (رسانه)
+[ERROR] Failed to import "product23-free-img" (رسانه)
+[ERROR] Failed to import "product24-free-img" (رسانه)
+[ERROR] Failed to import "product25-free-img" (رسانه)
+[ERROR] Failed to import "logo01-free-img" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import category دسته‌بندی نشده
+[WARNING] Failed to import product_cat بدون دسته‌بندی
+[ERROR] Failed to import "product11-free-img" (رسانه)
+[ERROR] Failed to import "leaf-free-img" (رسانه)
+[ERROR] Failed to import "product13-free-img" (رسانه)
+[ERROR] Failed to import "product17-free-img" (رسانه)
+[ERROR] Failed to import "product20-free-img" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import category دسته‌بندی نشده
+[WARNING] Failed to import product_cat بدون دسته‌بندی
+[ERROR] Failed to import "product11-free-img" (رسانه)
+[ERROR] Failed to import "leaf-free-img" (رسانه)
+[ERROR] Failed to import "product13-free-img" (رسانه)
+[ERROR] Failed to import "product17-free-img" (رسانه)
+[ERROR] Failed to import "product20-free-img" (رسانه)
+[ERROR] Failed to import "product19-free-img" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import category دسته‌بندی نشده
+[WARNING] Failed to import product_cat بدون دسته‌بندی
+[ERROR] Failed to import "product11-free-img" (رسانه)
+[ERROR] Failed to import "leaf-free-img" (رسانه)
+[ERROR] Failed to import "product13-free-img" (رسانه)
+[ERROR] Failed to import "product17-free-img" (رسانه)
+[ERROR] Failed to import "product20-free-img" (رسانه)
+[ERROR] Failed to import "product19-free-img" (رسانه)
+[ERROR] Failed to import "product21-free-img" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import category دسته‌بندی نشده
+[WARNING] Failed to import product_cat بدون دسته‌بندی
+[ERROR] Failed to import "product11-free-img" (رسانه)
+[ERROR] Failed to import "leaf-free-img" (رسانه)
+[ERROR] Failed to import "product13-free-img" (رسانه)
+[ERROR] Failed to import "product17-free-img" (رسانه)
+[ERROR] Failed to import "product20-free-img" (رسانه)
+[ERROR] Failed to import "product19-free-img" (رسانه)
+[ERROR] Failed to import "product21-free-img" (رسانه)
+[ERROR] Failed to import "product23-free-img" (رسانه)
+[ERROR] Failed to import "product24-free-img" (رسانه)
+[ERROR] Failed to import "product25-free-img" (رسانه)
+[ERROR] Failed to import "logo01-free-img" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import category دسته‌بندی نشده
+[WARNING] Failed to import product_cat بدون دسته‌بندی
+[ERROR] Failed to import "product11-free-img" (رسانه)
+[ERROR] Failed to import "leaf-free-img" (رسانه)
+[ERROR] Failed to import "product13-free-img" (رسانه)
+[ERROR] Failed to import "product17-free-img" (رسانه)
+[ERROR] Failed to import "product20-free-img" (رسانه)
+[ERROR] Failed to import "product19-free-img" (رسانه)
+[ERROR] Failed to import "product21-free-img" (رسانه)
+[ERROR] Failed to import "product23-free-img" (رسانه)
+[ERROR] Failed to import "product24-free-img" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import category دسته‌بندی نشده
+[WARNING] Failed to import product_cat بدون دسته‌بندی
+[ERROR] Failed to import "product11-free-img" (رسانه)
+[ERROR] Failed to import "leaf-free-img" (رسانه)
+[ERROR] Failed to import "product13-free-img" (رسانه)
+[ERROR] Failed to import "product17-free-img" (رسانه)
+[ERROR] Failed to import "product20-free-img" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import category دسته‌بندی نشده
+[WARNING] Failed to import product_cat بدون دسته‌بندی
+[ERROR] Failed to import "product11-free-img" (رسانه)
+[ERROR] Failed to import "leaf-free-img" (رسانه)
+[ERROR] Failed to import "product13-free-img" (رسانه)
+[ERROR] Failed to import "product17-free-img" (رسانه)
+[ERROR] Failed to import "product20-free-img" (رسانه)
+[ERROR] Failed to import "product19-free-img" (رسانه)
+[ERROR] Failed to import "product21-free-img" (رسانه)
+[ERROR] Failed to import "product23-free-img" (رسانه)
+[ERROR] Failed to import "product24-free-img" (رسانه)
+[ERROR] Failed to import "product25-free-img" (رسانه)
+[ERROR] Failed to import "logo01-free-img" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import category دسته‌بندی نشده
+[WARNING] Failed to import product_cat بدون دسته‌بندی
+[ERROR] Failed to import "product11-free-img" (رسانه)
+[ERROR] Failed to import "leaf-free-img" (رسانه)
+[ERROR] Failed to import "product13-free-img" (رسانه)
+[ERROR] Failed to import "product17-free-img" (رسانه)
+[ERROR] Failed to import "product20-free-img" (رسانه)
+[ERROR] Failed to import "product19-free-img" (رسانه)
+[ERROR] Failed to import "product21-free-img" (رسانه)
+[ERROR] Failed to import "product23-free-img" (رسانه)
+[ERROR] Failed to import "product24-free-img" (رسانه)
+[ERROR] Failed to import "product25-free-img" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import category دسته‌بندی نشده
+[WARNING] Failed to import product_cat بدون دسته‌بندی
+[ERROR] Failed to import "product11-free-img" (رسانه)
+[ERROR] Failed to import "leaf-free-img" (رسانه)
+[ERROR] Failed to import "product13-free-img" (رسانه)
+[ERROR] Failed to import "product17-free-img" (رسانه)
+[ERROR] Failed to import "product20-free-img" (رسانه)
+[ERROR] Failed to import "product19-free-img" (رسانه)
+[ERROR] Failed to import "product21-free-img" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import category دسته‌بندی نشده
+[WARNING] Failed to import product_cat بدون دسته‌بندی
+[ERROR] Failed to import "product11-free-img" (رسانه)
+[ERROR] Failed to import "leaf-free-img" (رسانه)
+[ERROR] Failed to import "product13-free-img" (رسانه)
+[ERROR] Failed to import "product17-free-img" (رسانه)
+[ERROR] Failed to import "product20-free-img" (رسانه)
+[ERROR] Failed to import "product19-free-img" (رسانه)
+[ERROR] Failed to import "product21-free-img" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import category دسته‌بندی نشده
+[WARNING] Failed to import product_cat بدون دسته‌بندی
+[ERROR] Failed to import "product11-free-img" (رسانه)
+[ERROR] Failed to import "leaf-free-img" (رسانه)
+[ERROR] Failed to import "product13-free-img" (رسانه)
+[ERROR] Failed to import "product17-free-img" (رسانه)
+[ERROR] Failed to import "product20-free-img" (رسانه)
+[ERROR] Failed to import "product19-free-img" (رسانه)
+[ERROR] Failed to import "product21-free-img" (رسانه)
+[ERROR] Failed to import "product23-free-img" (رسانه)
+[ERROR] Failed to import "product24-free-img" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import category دسته‌بندی نشده
+[WARNING] Failed to import product_cat بدون دسته‌بندی
+[ERROR] Failed to import "product11-free-img" (رسانه)
+[ERROR] Failed to import "leaf-free-img" (رسانه)
+[ERROR] Failed to import "product13-free-img" (رسانه)
+[ERROR] Failed to import "product17-free-img" (رسانه)
+[ERROR] Failed to import "product20-free-img" (رسانه)
+[ERROR] Failed to import "product19-free-img" (رسانه)
+[ERROR] Failed to import "product21-free-img" (رسانه)
+[ERROR] Failed to import "product23-free-img" (رسانه)
+[ERROR] Failed to import "product24-free-img" (رسانه)
+[ERROR] Failed to import "product25-free-img" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import category دسته‌بندی نشده
+[WARNING] Failed to import product_cat بدون دسته‌بندی
+[ERROR] Failed to import "product11-free-img" (رسانه)
+[ERROR] Failed to import "leaf-free-img" (رسانه)
+[ERROR] Failed to import "product13-free-img" (رسانه)
+[ERROR] Failed to import "product17-free-img" (رسانه)
+[ERROR] Failed to import "product20-free-img" (رسانه)
+[ERROR] Failed to import "product19-free-img" (رسانه)
+[ERROR] Failed to import "product21-free-img" (رسانه)
+[ERROR] Failed to import "product23-free-img" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import category دسته‌بندی نشده
+[WARNING] Failed to import product_cat بدون دسته‌بندی
+[ERROR] Failed to import "product11-free-img" (رسانه)
+[ERROR] Failed to import "leaf-free-img" (رسانه)
+[ERROR] Failed to import "product13-free-img" (رسانه)
+[ERROR] Failed to import "product17-free-img" (رسانه)
+[ERROR] Failed to import "product20-free-img" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import category دسته‌بندی نشده
+[WARNING] Failed to import product_cat بدون دسته‌بندی
+[ERROR] Failed to import "product11-free-img" (رسانه)
+[ERROR] Failed to import "leaf-free-img" (رسانه)
+[ERROR] Failed to import "product13-free-img" (رسانه)
+[ERROR] Failed to import "product17-free-img" (رسانه)
+[ERROR] Failed to import "product20-free-img" (رسانه)
+[ERROR] Failed to import "product19-free-img" (رسانه)
+
+
+---درحال درون ریزی ابزارک ---
+Main Sidebar : 
+
+جستجو - بدون عنوان - درون ریزیز شده است
+نوشته‌های تازه - بدون عنوان - درون ریزیز شده است
+آخرین دیدگاه‌ها - بدون عنوان - درون ریزیز شده است
+بایگانی‌ها - بدون عنوان - درون ریزیز شده است
+دسته‌ها - بدون عنوان - درون ریزیز شده است
+اطلاعات - بدون عنوان - درون ریزیز شده است
+
+Footer Bar Section 1 : 
+
+متن - بدون عنوان - درون ریزیز شده است
+
+Footer Bar Section 2 : 
+
+Astra: Social Profiles - بدون عنوان - درون ریزیز شده است
+
+Footer Widget Area 1 : 
+
+متن - داستان یک ارزو - درون ریزیز شده است
+
+Footer Widget Area 2 : 
+
+Astra: Address - اطلاعات تماس - درون ریزیز شده است
+
+Footer Widget Area 3 : 
+
+فهرست محصولات - محصولات - درون ریزیز شده است
+
+Footer Widget Area 4 : 
+
+دسته‌های محصولات - دسته‌های محصولات - درون ریزیز شده است
+
+
+
+---درون ریزی تنظیمات سفارشی ساز---
+خطا: فایل وارد کننده سفارشی ساز برای پوسته فعلی مناسب نیست. فقط می توانید تنظیمات سفارشی ساز را برای همان پوسته یا پوسته فرزند وارد کنید.
+
+---ocdi/after_import---
+

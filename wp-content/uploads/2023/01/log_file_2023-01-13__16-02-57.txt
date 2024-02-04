@@ -1,0 +1,59 @@
+
+---بارگذاری فایل ها---
+فایل ابزارک بارگذاری نشد. خطا:فایلی ارائه نشد
+
+---بارگذاری فایل ها---
+فایل سفارشی ساز بارگذاری نشد. خطا:فایلی ارائه نشد 
+
+---بارگذاری فایل ها---
+فایل Redux بارگذاری نشد. خطا:فایلی ارائه نشد
+
+---بارگذاری فایل ها---
+فایل های درون ریزی با موفقیت بارگذاری شد!
+حداکثر زمان اجرای اولیه =120
+اطلاعات فایل ها :
+Site URL = http://localhost/netGiah
+فایل اطلاعات = C:\xampp\htdocs\netGiah/wp-content/uploads/2023/01/xml.xml
+فایل ابزارک = تعریف نشده!
+فایل های سفارشی ساز= تعریف نشده!
+Redux فایل ها:
+تعریف نشده!
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import category دسته‌بندی نشده
+[WARNING] Failed to import product_cat بدون دسته‌بندی
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import category دسته‌بندی نشده
+[WARNING] Failed to import product_cat بدون دسته‌بندی
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import category دسته‌بندی نشده
+[WARNING] Failed to import product_cat بدون دسته‌بندی
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import category دسته‌بندی نشده
+[WARNING] Failed to import product_cat بدون دسته‌بندی
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import category دسته‌بندی نشده
+[WARNING] Failed to import product_cat بدون دسته‌بندی
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import category دسته‌بندی نشده
+[WARNING] Failed to import product_cat بدون دسته‌بندی
+
+
+---ocdi/after_import---
+

@@ -1,0 +1,44 @@
+2023-01-17T17:38:44+00:00 ERROR Error getting data feed
+2023-01-17T17:38:44+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: error:0A000126:SSL routines::unexpected eof while reading
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-01-17T17:38:44+00:00 ERROR Error getting data feed
+2023-01-17T17:38:44+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: error:0A000126:SSL routines::unexpected eof while reading
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
